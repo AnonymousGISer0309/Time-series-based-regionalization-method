@@ -1,2 +1,7 @@
 # Time-series-based-regionalization-method
-A regionalization method based on time-series geographic attribute data. It can effectively solve the geographic partitioning task under continuous time series conditions.
+
+## 1. Data and code
+This project mainly includes a regionalization algorithm written in Java and POI data containing Shanghai business hours information.
+
+## 2. Algorithm Introduction
+### 2.1 
